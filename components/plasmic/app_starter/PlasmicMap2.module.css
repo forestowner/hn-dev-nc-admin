@@ -1,0 +1,117 @@
+.frame2321 {
+  background: rgba(255, 255, 255, 1);
+  width: 70px;
+  height: 70px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  border-radius: 20px;
+}
+.frame2321 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: calc(0px - 10px);
+  height: calc(100% + 10px);
+}
+.frame2321 > :global(.__wab_flex-container) > *,
+.frame2321 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.frame2321 > :global(.__wab_flex-container) > picture > img,
+.frame2321
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 10px;
+}
+.svg__tVcor {
+  object-fit: cover;
+  max-width: 100%;
+  position: relative;
+  left: auto;
+  top: auto;
+  width: 10px;
+  height: 10px;
+  z-index: 1;
+  right: auto;
+  bottom: auto;
+  align-self: flex-end;
+  margin-right: 8px;
+  margin-left: 8px;
+  flex-shrink: 0;
+  display: none;
+}
+.svg___5DeGc {
+  object-fit: cover;
+  max-width: 100%;
+  color: #5c5c5c;
+  height: 1em;
+  flex-shrink: 0;
+}
+.img__rAs3 {
+  object-fit: scale-down;
+  max-width: 100%;
+  width: 45px;
+}
+.img__rAs3 > picture > img {
+  object-fit: scale-down;
+}
+.frame2322 {
+  background: rgba(255, 255, 255, 1);
+  width: 70px;
+  height: 70px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex-shrink: 0;
+  border-radius: 20px;
+}
+.frame2322 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: calc(0px - 10px);
+  height: calc(100% + 10px);
+}
+.frame2322 > :global(.__wab_flex-container) > *,
+.frame2322 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.frame2322 > :global(.__wab_flex-container) > picture > img,
+.frame2322
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 10px;
+}
+.svg__curzs {
+  object-fit: cover;
+  max-width: 100%;
+  position: relative;
+  left: auto;
+  top: auto;
+  width: 10px;
+  height: 10px;
+  z-index: 1;
+  right: auto;
+  bottom: auto;
+  align-self: flex-end;
+  margin-right: 8px;
+  margin-left: 8px;
+  flex-shrink: 0;
+  display: none;
+}
+.svg__qKtjl {
+  object-fit: cover;
+  max-width: 100%;
+  color: #5c5c5c;
+  height: 1em;
+  flex-shrink: 0;
+}
+.img__qPbEt {
+  object-fit: scale-down;
+  max-width: 100%;
+  width: 45px;
+}
+.img__qPbEt > picture > img {
+  object-fit: scale-down;
+}

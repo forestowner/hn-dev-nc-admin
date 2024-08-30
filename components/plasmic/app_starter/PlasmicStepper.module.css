@@ -1,0 +1,10 @@
+.steps:global(.__wab_instance) {
+  cursor: pointer;
+  background: none;
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+  width: 690px;
+  object-fit: cover;
+  max-width: 100%;
+  position: relative;
+}
